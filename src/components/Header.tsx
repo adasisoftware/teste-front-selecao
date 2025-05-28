@@ -11,8 +11,8 @@ export function Header({ className, ...rest }: HeaderProps) {
         className ? className : ""
       }`}
     >
-      <h1 className="font-bold text-2xl text-zinc-700">
-        Teste de Seleção - Front-end
+      <h1 className="font-bold text-2xl text-blue-900">
+        Adasi Software | Teste de Seleção - Front-end
       </h1>
       <nav>
         <ul className="flex gap-8">
